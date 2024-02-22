@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../Downloads/418348153_1087254229141511_482909710386607034_n.png</file>
+        <file>../../Downloads/arrow.PNG</file>
+        <file>../../Downloads/photo-1518998053901-5348d3961a04.avif</file>
+        <file>../arrow_up.PNG</file>
+        <file>../../Downloads/1708090968119e09nwfo8-transformed.png</file>
+    </qresource>
+    <qresource prefix="/new/hehe"/>
+</RCC>
